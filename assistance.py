@@ -83,7 +83,7 @@ Between 2 to 5 is Middle. \n
 And Greater than 5 is Terrible.
 ''')
 
-st.subheader('Heart Rate Slop')
+st.subheader('Heart Rate Slope')
 st.write("[Upsloping Heart Rate example image](...)")
 st.write("[Flatsloping Heart Rate example image](...)")
 st.write("[Downsloping Heart Rate example image](...)")
